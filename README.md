@@ -1,4 +1,3 @@
-Java-Programs
-=============
+This is a repository for basic java programs.
 
-Practice programs in Java
+
