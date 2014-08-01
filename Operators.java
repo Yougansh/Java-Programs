@@ -8,7 +8,7 @@ public class Operators
      if(f1 == f2[1,1])
      {
        System.out.println("true");
-	System.out.println("Test");
+
      }
   }
 }
